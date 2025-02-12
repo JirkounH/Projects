@@ -2,7 +2,7 @@
 bull_cows.py: druhý projekt do Engeto Online Python Akademie
 
 author: Jiri Hubacek
-email: hubavek108@gmail.com
+email: hubacek108@gmail.com
 """
 
 import random
